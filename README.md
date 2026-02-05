@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Abhishek 👋</h1>
 <h4 align="center">Fullstack Developer</h4>
 <p align="center">
-  <a href="https://linkedin.com/in/abhishekydv">
+  <a href="https://linkedin.com/in/abishekydv">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=1" />
   </a>
   <a href="https://x.com/abishekydv">
