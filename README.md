@@ -44,11 +44,11 @@ I build reliable, scalable web applications by combining clean backend architect
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=abishek-ydv&theme=dark"
-    width="420"
+    width="355"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abishek-ydv&theme=dark&layout=compact"
-    width="330"
+    width="280"
   />
 </p>
 
