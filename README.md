@@ -4,8 +4,8 @@
   <a href="https://linkedin.com/in/abhishekydv">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=1" />
   </a>
-  <a href="https://x.com/heyabishek">
-    <img src="https://img.shields.io/badge/X-@heyabishek-000000?style=for-the-badge&logo=x&logoColor=white&v=1" />
+  <a href="https://x.com/abishekydv">
+    <img src="https://img.shields.io/badge/X-@abishekydv-000000?style=for-the-badge&logo=x&logoColor=white&v=1" />
   </a>
 </p>
 
